@@ -1,4 +1,4 @@
-# Praktikum 9
+# Praktikum 1
 
 Illda Febryawan Budiono - 311910749 - TI.19.A.2
 
